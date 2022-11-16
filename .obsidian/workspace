@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "c84f4bf8a698b5d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f37b5333c77178cc",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c09c82f00b7e70e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaab04fc272e1d3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d63f88dddb86f726",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b5345b7fa8b2bd32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "061006e1cc22c1e3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f5c1176582371d04",
+    "type": "split",
+    "children": [
+      {
+        "id": "13dab8ffe64b48e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65117a82b9f08fd3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "efb69c3776600667",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6edbdafc1efd5447",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e20d93d721ab0e63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f37b5333c77178cc",
+  "lastOpenFiles": [
+    "Computer Science/Nondeterministic Finite Automaton.md",
+    "Computer Science/Deterministic Finite Automataton.md"
+  ]
+}

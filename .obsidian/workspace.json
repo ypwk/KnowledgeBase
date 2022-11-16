@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "c84f4bf8a698b5d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "45cdf491d488a227",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34993e006099df6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Theoretical Computer Science/Deterministic Finite Automaton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7415ef34bfb12eef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Theoretical Computer Science/regular language.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c09c82f00b7e70e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaab04fc272e1d3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d63f88dddb86f726",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b5345b7fa8b2bd32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#finiteautomata",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "061006e1cc22c1e3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f5c1176582371d04",
+    "type": "split",
+    "children": [
+      {
+        "id": "13dab8ffe64b48e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65117a82b9f08fd3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Science/Theoretical Computer Science/Deterministic Finite Automaton.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "efb69c3776600667",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Science/Theoretical Computer Science/Deterministic Finite Automaton.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6edbdafc1efd5447",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e20d93d721ab0e63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Science/Theoretical Computer Science/Deterministic Finite Automaton.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "34993e006099df6f",
+  "lastOpenFiles": [
+    "Computer Science/Theoretical Computer Science/alphabet.md",
+    "Computer Science/Theoretical Computer Science/word.md",
+    "Computer Science/Theoretical Computer Science/Nondeterministic Finite Automaton.md",
+    "Computer Science/Theoretical Computer Science/Deterministic Finite Automaton.md",
+    "Computer Science/Theoretical Computer Science/Finite Automaton.md",
+    "Computer Science/Theoretical Computer Science/language.md",
+    "Computer Science/Theoretical Computer Science/transition function.md",
+    "Computer Science/reverse.md",
+    "Computer Science/Theoretical Computer Science/regular language.md",
+    "Computer Science/empty word.md"
+  ]
+}
