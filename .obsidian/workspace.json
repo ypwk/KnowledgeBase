@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f2cc0d10471d6096",
+        "id": "5c6b015554a29023",
         "type": "tabs",
         "children": [
           {
-            "id": "7bd334a8ace6f7e4",
+            "id": "628b7751ca1e9672",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Theory of Computation/Deterministic Finite Automaton.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Theory of Computation/Deterministic Finite Automaton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Theory of Computation/Deterministic Finite Automaton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science/Theory of Computation/Deterministic Finite Automaton.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7bd334a8ace6f7e4",
+  "active": "628b7751ca1e9672",
   "lastOpenFiles": [
-    "Computer Science/Theory of Computation/Finite Automaton.md",
-    "Computer Science/Theory of Computation/Image Resources/DFA_2.png",
-    "Computer Science/Theory of Computation/language.md",
-    "Computer Science/Theory of Computation/Post's Correspondence Problem.md",
-    "Computer Science/Theory of Computation/Nondeterministic Finite Automaton.md",
-    "Computer Science/Theory of Computation/reducibility.md",
-    "Computer Science/Theory of Computation/regular language.md",
-    "Computer Science/Theory of Computation/transition function.md",
-    "Computer Science/Theory of Computation/Turing Recognizable Language.md",
-    "Computer Science/Theory of Computation/Turing Machine.md"
+    "Computer Science/Machine Learning/backwards propagation.md",
+    "Computer Science/Machine Learning/forward propagation.md",
+    "Computer Science/Machine Learning/neural network.md",
+    "Computer Science/Machine Learning/activation function.md",
+    "Computer Science/Machine Learning/Voronoi partition.md",
+    "Computer Science/Machine Learning/curse of dimensionality.md",
+    "Mathematics/Linear Algebra/vector norm.md",
+    "Computer Science/Machine Learning/k-means clustering.md",
+    "Computer Science/Machine Learning/k-nearest neighbors.md",
+    "Computer Science/Machine Learning/No Free Lunch Theorem.md"
   ]
 }
