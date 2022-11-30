@@ -4,7 +4,7 @@ aliases: ["LANGUAGE","language","Language","Languages","languages"]
 Topics: #computerscience #automatatheory #finiteautomata
 
 ## Language
-A languages is a set of [[word|words]]/strings. 
+A languages is a set of [[word|strings]].
 
 ### Operators
 Let $A$ and $B$ be two languages. 
@@ -32,8 +32,8 @@ Let $A$ and $B$ be two languages.
 ### Examples
 $$
 \begin{aligned}
-A&=\{w|w\ has\ an\ equal\ number\ of\ 0s\ and\ 1s\}=\{\varepsilon,01,10,0011,0110,1010,\dots\}\\
-B&=\{0^n1^n|n\leq1\}=\{01,0011,000111,\dots\}\\
+A&=\{w\ |\ w\ has\ an\ equal\ number\ of\ 0s\ and\ 1s\}=\{\varepsilon,01,10,0011,0110,1010,\dots\}\\
+B&=\{0^n1^n\ |\ n\leq1\}=\{01,0011,000111,\dots\}\\
 \end{aligned}
 $$
 Note that $B\subset A$.

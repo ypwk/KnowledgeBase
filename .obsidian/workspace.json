@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "45cdf491d488a227",
+        "id": "f2cc0d10471d6096",
         "type": "tabs",
         "children": [
           {
-            "id": "34993e006099df6f",
+            "id": "7bd334a8ace6f7e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Theoretical Computer Science/Deterministic Finite Automaton.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7415ef34bfb12eef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Theoretical Computer Science/regular language.md",
+                "file": "Computer Science/Theory of Computation/Deterministic Finite Automaton.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#finiteautomata",
+                "query": "non-TD",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Theoretical Computer Science/Deterministic Finite Automaton.md",
+                "file": "Computer Science/Theory of Computation/Deterministic Finite Automaton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Theoretical Computer Science/Deterministic Finite Automaton.md",
+                "file": "Computer Science/Theory of Computation/Deterministic Finite Automaton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Theoretical Computer Science/Deterministic Finite Automaton.md"
+                "file": "Computer Science/Theory of Computation/Deterministic Finite Automaton.md"
               }
             }
           }
@@ -148,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "34993e006099df6f",
+  "active": "7bd334a8ace6f7e4",
   "lastOpenFiles": [
-    "Computer Science/Theoretical Computer Science/alphabet.md",
-    "Computer Science/Theoretical Computer Science/word.md",
-    "Computer Science/Theoretical Computer Science/Nondeterministic Finite Automaton.md",
-    "Computer Science/Theoretical Computer Science/Deterministic Finite Automaton.md",
-    "Computer Science/Theoretical Computer Science/Finite Automaton.md",
-    "Computer Science/Theoretical Computer Science/language.md",
-    "Computer Science/Theoretical Computer Science/transition function.md",
-    "Computer Science/reverse.md",
-    "Computer Science/Theoretical Computer Science/regular language.md",
-    "Computer Science/empty word.md"
+    "Computer Science/Theory of Computation/Finite Automaton.md",
+    "Computer Science/Theory of Computation/Image Resources/DFA_2.png",
+    "Computer Science/Theory of Computation/language.md",
+    "Computer Science/Theory of Computation/Post's Correspondence Problem.md",
+    "Computer Science/Theory of Computation/Nondeterministic Finite Automaton.md",
+    "Computer Science/Theory of Computation/reducibility.md",
+    "Computer Science/Theory of Computation/regular language.md",
+    "Computer Science/Theory of Computation/transition function.md",
+    "Computer Science/Theory of Computation/Turing Recognizable Language.md",
+    "Computer Science/Theory of Computation/Turing Machine.md"
   ]
 }

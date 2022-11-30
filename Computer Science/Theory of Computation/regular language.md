@@ -4,5 +4,5 @@ aliases: ["REGULAR LANGUAGE","regular language","Regular language","Regular lang
 Topics: #computerscience #automatatheory #finiteautomata
 
 ## Regular Language
-A [[language]] is called a regular language if some [[Deterministic Finite Automaton|DFA]] recognizes it. 
+A [[language]] is called a regular language if some [[Deterministic Finite Automaton|DFA]] accepts it. 
 

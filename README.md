@@ -1,2 +1,2 @@
 # KnowledgeBase
-An Obsidian Vault containing some technical knowledge
+An Obsidian Vault containing some technical knowledge.
