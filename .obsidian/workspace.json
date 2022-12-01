@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "5c6b015554a29023",
+        "id": "bd034988de1be021",
         "type": "tabs",
         "children": [
           {
-            "id": "628b7751ca1e9672",
+            "id": "65a5277dd593da84",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "non-TD",
+                "query": "tag:#automatatheory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "628b7751ca1e9672",
+  "active": "65a5277dd593da84",
   "lastOpenFiles": [
-    "Computer Science/Machine Learning/backwards propagation.md",
-    "Computer Science/Machine Learning/forward propagation.md",
-    "Computer Science/Machine Learning/neural network.md",
-    "Computer Science/Machine Learning/activation function.md",
-    "Computer Science/Machine Learning/Voronoi partition.md",
-    "Computer Science/Machine Learning/curse of dimensionality.md",
-    "Mathematics/Linear Algebra/vector norm.md",
-    "Computer Science/Machine Learning/k-means clustering.md",
-    "Computer Science/Machine Learning/k-nearest neighbors.md",
-    "Computer Science/Machine Learning/No Free Lunch Theorem.md"
+    "Computer Science/Theory of Computation/Traveling Salesman Problem.md",
+    "Computer Science/Theory of Computation/complexity class.md",
+    "Computer Science/Theory of Computation/class of NP.md",
+    "Computer Science/Theory of Computation/Graph Coloring Problem.md",
+    "Computer Science/Theory of Computation/nondeterministic Turing Machine.md",
+    "Computer Science/Theory of Computation/multi-tape Turing Machine.md",
+    "Computer Science/Theory of Computation/class of P.md",
+    "Computer Science/Theory of Computation/Nondeterministic Finite Automaton.md",
+    "Computer Science/Theory of Computation/deterministic Turing Machine.md",
+    "Computer Science/Theory of Computation/Deterministic Finite Automaton.md"
   ]
 }

@@ -13,7 +13,7 @@ DFA $M=(Q,\Sigma,\delta,q_0,F)$, where
 - $F\subseteq Q$ is a set of accept/final states
 - $\delta : Q \times \Sigma \rightarrow Q$ is a [[transition function]], where $\delta(q,a) = p$ is the state that $M$ will enter if the current state is $q$ and the current symbol is $a$.
 
-Thus, this is the language recognized by a [[Deterministic Finite Automaton|DFA]] $M: L(M) = \{w\ |\ \hat{\delta}(q0,w)\in F\}$, where $\hat{\delta}$ is an extended [[transition function]]. $L(M)$ is a [[regular language]].
+Thus, this is the language recognized by a [[Deterministic Finite Automaton|DFA]] $M: L(M) = \{w\ |\ \hat{\delta}(q_0,w)\in F\}$, where $\hat{\delta}$ is an extended [[transition function]]. $L(M)$ is a [[regular language]].
 
 ### Components
 A DFA has the following components:

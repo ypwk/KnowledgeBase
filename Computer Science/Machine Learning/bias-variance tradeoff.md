@@ -5,3 +5,5 @@ Topics: #computerscience #machinelearning
 
 ## Bias-Variance Tradeoff
 
+
+i am so high bias right now

@@ -5,3 +5,6 @@ Topics: #computerscience #machinelearning
 
 ## Gradient Descent
 
+
+
+### Matrix Form

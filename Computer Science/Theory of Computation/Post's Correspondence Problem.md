@@ -1,7 +1,7 @@
 ---
 aliases: ["POST'S CORRESPONDENCE PROBLEM","post's correspondence problem","Post's Correspondence Problem","PCP"] 
 ---
-Topics: #
+Topics: #computerscience #computabilitytheory #finiteautomata 
 
 ## Post's Correspondence Problem
 How do we determine the computability of problems that aren't related to [[Turing Machine|Turing Machines]]?

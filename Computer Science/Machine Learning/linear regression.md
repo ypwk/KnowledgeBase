@@ -5,3 +5,5 @@ Topics: #computerscience #machinelearning
 
 ## Linear Regression
 
+
+### Cost Function

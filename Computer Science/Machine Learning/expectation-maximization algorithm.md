@@ -3,5 +3,5 @@ aliases: ["EXPECTATION-MAXIMIZATION ALGORITHM","expectation-maximization algorit
 ---
 Topics: #computerscience #machinelearning 
 
-## Expectation-maximization (EM) algorithm 
+## Expectation-Maximization (EM) algorithm 
 

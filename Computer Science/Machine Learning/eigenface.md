@@ -1,7 +1,7 @@
 ---
 aliases: ["EIGENFACE","eigenface","Eigenface","Eigenfaces","eigenfaces"] 
 ---
-Topics: #
+Topics: #computerscience #machinelearning 
 
 ## Eigenface
 
