@@ -30,9 +30,19 @@ DFA, NFA, and regular languages have the same computational power.
 - Inverse Homormorphism
 	- If $A$ is regular, so is $h^{-1}(A)=\{w|h(w) \in A\}$ for a homomorphism $h : \Sigma \rightarrow (\Sigma^{'})^{*}$.
 
+A common problem is a proof that a regular language is non-regular by closure property.  The following is a blueprint for such a proof: 
+- To prove that regular language $A$ is non-regular, assume it is regular for the sake of contradiction. 
+- Find a regular language $B$ and a language operator that preserves regularity, and then apply the operator on $A$ and $B$ to get a regular language $C$. 
+- If $C$ is known to be non-regular, a contradiction is found, and $A$ must be non-regular. 
+
 ### Practice
-1. Prove that $A=\{w \in \{a,b\}^{*}|$w is of odd length and contains an even number of a’s$\}$ is regular. 
+1. [Closure Properties] Prove that $A=\{w \in \{a,b\}^{*}|$w is of odd length and contains an even number of a’s$\}$ is regular. 
 	- Let $A_1 =\{w|w$ is of odd length$\}$ 
 	- Let $A_2 =\{w|w$ has an even number of a’s$\}$ 
 	- Since DFAs exist to accept $A_1$ and $A_2$, both are RLs. 
-	- $A=A1 \cap A2$. By the CP of RLs under intersection, $A=A1 \cap A2$ is RL. So $A$ is RL
+	- $A=A1 \cap A2$. By the CP of RLs under intersection, $A=A1 \cap A2$ is RL. So $A$ is RL.
+2. [Closure Properties] Prove that $C=\{w \in{0,1}^{*}|w$ has an equal # of 0s and 1s$\}$ is **not regular**.
+	- Assume for contradiction that $C$ is regular.
+	- Let $B =\{0^{*}1^{*}\}$. B is a known regular language. 
+	- Let $D =C \cap B=\{0^n1^n\}$. $D$ is known to be non-regular But $D$ is regular by closure properties under intersection.
+	- A contradiction! So $C$ is non-regular. 

@@ -21,4 +21,16 @@ Thus, this is the language recognized by a NFA $N: L(N) = \{w\ |\ \hat{\delta}(q
 A NFA **accepts** a string if along all paths starting at $q_0$ and ending at $q_f \in F$, there is some path such that the concatenation of the symbols on the path matches the input string. 
 
 ### Graph Form
-NFAs do not have the same constraints as . 
+NFAs do not have the same constraints as [[Deterministic Finite Automaton|DFAs]].
+
+### Construction from [[regular expression|regular expression]]
+Since regular expressions are defined recursively, it is suitable to construct an equivalent NFA recursively, or inductively.
+- Basis: Define NFAs to accept the simple regular expressions: $\varepsilon$, $\emptyset$, and $a$ for $a \in \Sigma$.
+	- The NFA to decide $\varepsilon$: ![[NFA_1.jpg]] 
+	- The NFA to decide $a$:
+		![[NFA_2.jpg]] 
+- Induction: Given the NFAs for regular expressions $a$ and $b$, define NFAs for $a \cup b$, $ab$, and $a ^{*}$. 
+	- The NFA to decide $a \cup b$: ![[NFA_3.jpg]]
+	- The NFA to decide $ab$: ![[NFA_4.jpg]]
+	- The NFA to decide $a^{*}$: ![[NFA_5.jpg]]
+
