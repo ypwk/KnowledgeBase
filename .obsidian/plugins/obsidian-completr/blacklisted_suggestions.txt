@@ -1,0 +1,11 @@
+P
+FT
+TD
+TR
+TM
+tm
+RL
+rl
+GC
+NP
+GD

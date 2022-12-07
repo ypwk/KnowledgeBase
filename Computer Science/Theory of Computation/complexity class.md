@@ -10,4 +10,4 @@ Given the classes [[class of P|P]] and [[class of NP|NP]], we can determine that
 Is $P = NP$? This is a famous open problem. If it is, they would collapse into one class. Most people think that $P \neq NP$.
 
 ### Theorems
-$P \subseteq NP$. This means that either $P \subset NP$ or $P = NP$. This means that any [[deterministic Turing Machine]] is a special case of a [[nondeterministic Turing Machine]]. 
+$P \subseteq NP$. This means that either $P \subset NP$ or $P = NP$. This means that any [[Deterministic Turing Machine]] is a special case of a [[Nondeterministic Turing Machine]]. 

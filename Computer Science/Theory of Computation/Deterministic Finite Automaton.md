@@ -1,5 +1,5 @@
 ---
-aliases: ["DETERMINISTIC FINITE AUTOMATON","deterministic finite automaton","Deterministic Finite Automaton","Deterministic Finite Automata","deterministic finite automata","DFA"] 
+aliases: ["DETERMINISTIC FINITE AUTOMATON","deterministic finite automaton","Deterministic Finite Automaton","Deterministic Finite Automata","deterministic finite automata","DFA","DFAs"] 
 ---
 Topics: #computerscience #automatatheory #finiteautomata
 
@@ -33,6 +33,8 @@ If your DFA does not satisfy the above properties, you can try adding a dead-end
 
 ### Examples
 1. Construct a DFA $M$ such that $L(M)=\{w\in\{0,1\}^{*}\ |\ w$ has even numbers of $0$s and $1$s $\}$.  
-![[DFA_1.png | center | 300]]
+![[DFA_1.png | center]]
 
-2. Describe  
+2. Describe the language of this DFA
+![[DFA_2.png | center]]
+	This DFA accepts strings that have at least one 1 and an even number of 0s after the last 1. 

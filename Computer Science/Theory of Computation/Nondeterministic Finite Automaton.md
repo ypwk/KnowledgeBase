@@ -1,5 +1,5 @@
 ---
-aliases: ["NONDETERMINISTIC FINITE AUTOMATON","nondeterministic finite automaton","Nondeterministic Finite Automaton","Nondeterministic Finite Automata","nondeterministic finite automata","NFA"] 
+aliases: ["NONDETERMINISTIC FINITE AUTOMATON","nondeterministic finite automaton","Nondeterministic Finite Automaton","Nondeterministic Finite Automata","nondeterministic finite automata","NFA","NFAs"] 
 ---
 Topics: #computerscience #automatatheory #finiteautomata
 
@@ -21,4 +21,4 @@ Thus, this is the language recognized by a NFA $N: L(N) = \{w\ |\ \hat{\delta}(q
 A NFA **accepts** a string if along all paths starting at $q_0$ and ending at $q_f \in F$, there is some path such that the concatenation of the symbols on the path matches the input string. 
 
 ### Graph Form
-NFAs do not have the same constraints as DFAs. 
+NFAs do not have the same constraints as . 

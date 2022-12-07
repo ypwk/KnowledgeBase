@@ -6,7 +6,7 @@ Topics: #computerscience #finiteautomata #automatatheory
 ## Nondeterministic Turing Machine
 
 ### Definition
-A [[nondeterministic Turing Machine]] is an unrealistic (unreasonable) model of computing which can be simulated by other models with an exponential loss of efficiency. It is a useful concept that has had great impact on the theory of computation.
+A [[Nondeterministic Turing Machine]] is an unrealistic (unreasonable) model of computing which can be simulated by other models with an exponential loss of efficiency. It is a useful concept that has had great impact on the theory of computation.
 
 NFA $N=(Q,\Sigma,\Gamma,\delta,q_0,q_{accept},q_{reject})$, where $\delta : Q \times \Gamma → 2^P$ for $P = Q\times\Gamma\times\{L,R\}$.
 
@@ -23,4 +23,4 @@ There are two phases for operation:
 - Verifying phase: Verify the solution.
 
 ### Theorems
-Every $T(n)$-time single-tape nondeterministic Turing Machine has an equivalent $O(2^{O(T(n))})$-time single-tape [[deterministic Turing Machine]].
+Every $T(n)$-time single-tape nondeterministic Turing Machine has an equivalent $O(2^{O(T(n))})$-time single-tape [[Deterministic Turing Machine]].

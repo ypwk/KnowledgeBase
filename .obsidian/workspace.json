@@ -11,11 +11,44 @@
             "id": "65a5277dd593da84",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Theory of Computation/Graph Coloring Problem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5cfecbcda7cc77c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "fe1cab87a6621362",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2b08b815e22eb10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Theory of Computation/Deterministic Finite Automaton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#automatatheory",
+                "query": "closure properties",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "65a5277dd593da84",
+  "active": "fe1cab87a6621362",
   "lastOpenFiles": [
-    "Computer Science/Theory of Computation/Traveling Salesman Problem.md",
-    "Computer Science/Theory of Computation/complexity class.md",
-    "Computer Science/Theory of Computation/class of NP.md",
+    "Computer Science/Theory of Computation/regular language.md",
     "Computer Science/Theory of Computation/Graph Coloring Problem.md",
-    "Computer Science/Theory of Computation/nondeterministic Turing Machine.md",
-    "Computer Science/Theory of Computation/multi-tape Turing Machine.md",
-    "Computer Science/Theory of Computation/class of P.md",
+    "Computer Science/Theory of Computation/Deterministic Finite Automaton.md",
+    "Computer Science/Theory of Computation/language.md",
+    "Computer Science/Theory of Computation/Deterministic Turing Machine.md",
     "Computer Science/Theory of Computation/Nondeterministic Finite Automaton.md",
-    "Computer Science/Theory of Computation/deterministic Turing Machine.md",
-    "Computer Science/Theory of Computation/Deterministic Finite Automaton.md"
+    "Computer Science/Theory of Computation/Nondeterministic Turing Machine.md",
+    "Computer Science/Theory of Computation/subset construction.md",
+    "Pasted image 20221202223945.png.md",
+    "Computer Science/Theory of Computation/Image Resources/DFA_2.png"
   ]
 }

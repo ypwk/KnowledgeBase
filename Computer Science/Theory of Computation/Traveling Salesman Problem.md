@@ -9,7 +9,7 @@ Topics: #computerscience #finiteautomata #complexitytheory
 Given an edge-weighted graph $G(V,E,w)$ with a bound $B\geq0$, is there a tour (a cycle that passes through each node exactly once) in $G$ with total weight no more than $B$?
 
 ### Solution
-We define the following [[nondeterministic Turing Machine|NTM]] $N$ to solve the TSP in polynomial time:
+We define the following [[Nondeterministic Turing Machine|NTM]] $N$ to solve the TSP in polynomial time:
 
 NTM N =”On input $\langle G,B\rangle$ 
 1. Nondeterministically guess a tour $T$ — runtime: $O(|V|)$
