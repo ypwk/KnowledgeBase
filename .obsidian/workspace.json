@@ -11,19 +11,21 @@
             "id": "d2b08b815e22eb10",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Computer Science/Theory of Computation/Image Resources/NFA_1.jpg"
+                "file": "Mathematics/Linear Algebra/spectrum.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "83b8765d712cb7de",
+            "id": "80ac0469ff834e38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Theory of Computation/regular language.md",
+                "file": "Computer Science/Theory of Computation/pumping lemma.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Theory of Computation/regular language.md",
+                "file": "Computer Science/Theory of Computation/pumping lemma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Theory of Computation/regular language.md",
+                "file": "Computer Science/Theory of Computation/pumping lemma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Theory of Computation/regular language.md"
+                "file": "Computer Science/Theory of Computation/pumping lemma.md"
               }
             }
           }
@@ -147,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "83b8765d712cb7de",
+  "active": "80ac0469ff834e38",
   "lastOpenFiles": [
-    "Computer Science/Theory of Computation/Graph Coloring Problem.md",
-    "Computer Science/Theory of Computation/Finite Automaton.md",
-    "Computer Science/Theory of Computation/complexity theory.md",
-    "Computer Science/Theory of Computation/complexity class.md",
-    "Computer Science/Theory of Computation/Deterministic Finite Automaton.md",
-    "Computer Science/Theory of Computation/Deterministic Turing Machine.md",
-    "Computer Science/Theory of Computation/transition function.md",
+    "Computer Science/Theory of Computation/Post's Correspondence Problem.md",
+    "Computer Science/Theory of Computation/regular language.md",
+    "Computer Science/Theory of Computation/regular expression.md",
     "Computer Science/Theory of Computation/pumping lemma.md",
-    "Computer Science/Theory of Computation/Nondeterministic Turing Machine.md",
-    "Computer Science/Theory of Computation/Nondeterministic Finite Automaton.md"
+    "Mathematics/Linear Algebra/determinant.md",
+    "Mathematics/Linear Algebra/eigenvalue.md",
+    "Mathematics/Linear Algebra/singular value decomposition.md",
+    "Mathematics/Linear Algebra/vector norm.md",
+    "Mathematics/Linear Algebra/vector.md",
+    "Mathematics/Linear Algebra/spectral radius.md"
   ]
 }
