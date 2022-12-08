@@ -11,5 +11,5 @@ Extending $\delta$ to $\hat{\delta} : Q \times \Sigma^* \rightarrow Q$: For any 
 - $\hat{\delta}(q,\epsilon) = q$
 - $\hat{\delta}(q,w) = \delta(\hat{\delta}(q,x),a)$
 
-Thus, this is the language recognized by a [[Deterministic Finite Automaton|DFA]] $M: L(M) = \{w\ |\ \hat{\delta}(q0,w)\in F\}$
+Thus, the language recognized by a [[Deterministic Finite Automaton|DFA]] $M$ is as follows — $L(M) = \{w\ |\ \hat{\delta}(q0,w)\in F\}$.
 

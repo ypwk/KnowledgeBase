@@ -8,24 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d2b08b815e22eb10",
+            "id": "c17812acf4a4e92a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/spectrum.md",
+                "file": "Computer Science/Theory of Computation/Deterministic Finite Automaton.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "80ac0469ff834e38",
+            "id": "3e0f055af4aaf603",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "265500d9d9a210ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Theory of Computation/pumping lemma.md",
+                "file": "Computer Science/Theory of Computation/Turing Recognizable Language.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#finiteautomata",
+                "query": "Untitled",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Theory of Computation/pumping lemma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Theory of Computation/pumping lemma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science/Theory of Computation/pumping lemma.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,17 +153,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "80ac0469ff834e38",
+  "active": "3e0f055af4aaf603",
   "lastOpenFiles": [
-    "Computer Science/Theory of Computation/Post's Correspondence Problem.md",
-    "Computer Science/Theory of Computation/regular language.md",
+    "Computer Science/Theory of Computation/Final Exam Review.md",
+    "Computer Science/Theory of Computation/Turing Recognizable Language.md",
+    "Computer Science/Theory of Computation/Deterministic Finite Automaton.md",
+    "Computer Science/Theory of Computation/transition function.md",
     "Computer Science/Theory of Computation/regular expression.md",
-    "Computer Science/Theory of Computation/pumping lemma.md",
-    "Mathematics/Linear Algebra/determinant.md",
-    "Mathematics/Linear Algebra/eigenvalue.md",
-    "Mathematics/Linear Algebra/singular value decomposition.md",
-    "Mathematics/Linear Algebra/vector norm.md",
-    "Mathematics/Linear Algebra/vector.md",
-    "Mathematics/Linear Algebra/spectral radius.md"
+    "Computer Science/Theory of Computation/subset construction.md",
+    "Computer Science/Theory of Computation/reducibility.md",
+    "Computer Science/Theory of Computation/Turing Machine.md",
+    "Computer Science/Theory of Computation/Deterministic Turing Machine.md",
+    "Computer Science/Theory of Computation/Turing Decidable Language.md"
   ]
 }

@@ -45,4 +45,6 @@ A common problem is a proof that a regular language is non-regular by closure pr
 	- Assume for contradiction that $C$ is regular.
 	- Let $B =\{0^{*}1^{*}\}$. B is a known regular language. 
 	- Let $D =C \cap B=\{0^n1^n\}$. $D$ is known to be non-regular But $D$ is regular by closure properties under intersection.
-	- A contradiction! So $C$ is non-regular. 
+	- A contradiction! So $C$ is non-regular.
+3. [Closure Properties]
+4.  

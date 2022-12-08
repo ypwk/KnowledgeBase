@@ -1,7 +1,7 @@
 ---
 aliases: ["NONDETERMINISTIC TURING MACHINE","nondeterministic turing machine","Nondeterministic Turing Machine","Nondeterministic Turing Machines","nondeterministic turing machines", "NTM"] 
 ---
-Topics: #computerscience #finiteautomata #automatatheory 
+Topics: #computerscience #finiteautomata #computabilitytheory #automatatheory 
 
 ## Nondeterministic Turing Machine
 

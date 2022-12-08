@@ -1,3 +1,8 @@
+Topics: #bookkeeping
+
+## README
+
+
 # KnowledgeBase
 An Obsidian Vault containing some technical knowledge.
 
