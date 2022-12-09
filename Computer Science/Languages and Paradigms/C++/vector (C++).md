@@ -1,7 +1,7 @@
 ---
 aliases: ["VECTOR (C++)","vector (c++)","Vector (C++)", "vector", "vectors"] 
 ---
-Topics: #computerscience 
+Topics: #computerscience #languagesandparadigms 
 
 ## Vector (C++)
 

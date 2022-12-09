@@ -9,7 +9,6 @@ prove language non context free (p99, 100)
 
 no pumping lemma proofs, for both regular languages and context free languages
 
-
 problems, languages, solvable (TD) vs unsolvable (non-TD)
 Turing machines, how it works, its language, its encoding, Church-Turing thesis
 Turing Recognizable (input given is in languages, just need a Turing Machine to verify)
@@ -20,8 +19,7 @@ Proofs: a language is TR, TD, or non-TD
 A language and its complement (p 122) (True or false, what class is the language in?) 
 - If a language is TDL, then its complement must become TDL. 
 
-
-(never asked to design a Turing Machine from delta function)
+(never ask to design a Turing Machine from delta function)
 
 
 100 points, 6 bonus points
@@ -54,4 +52,4 @@ Baeldung P, NP diagram :) with the increasing difficulty
 4. If $\Pi_{1} \leq_{P} \Pi_{2}$ and $\Pi_1, \Pi_2 \in NPC$, is $\Pi_{2} \leq_{P} \Pi_{1}$ ?
 	- True — 
 9.  If $\Pi_{1} \leq_{P} \Pi_{2}$ and $\Pi_1 \notin NP$, is $\Pi_{1} \in P$ ?
-	-  
+	-  False 

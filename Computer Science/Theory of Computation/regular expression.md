@@ -4,7 +4,7 @@ aliases: ["REGULAR EXPRESSION","regular expression","Regular expression","Regula
 Topics: #computerscience #finiteautomata #automatatheory 
 
 ## Regular Expression (RE)
-Regular expressions are strings that represent the structure of [[regular language|regular languages]]. 
+Regular expressions are patterns that represent the structure of all strings in a [[regular language]]. The goal when writing a regular expression is to make it as simple and readable as possible. 
 
 ### Definition
 Let $L(R)$ be the language that regular expression $R$ represents. An inductive definition is as follows:
@@ -40,3 +40,36 @@ The following are some algebraic laws for regular expressions:
 - $R^{+} =RR^{*} =R^{*}R$
 - $R^{*}=R^{+} \cup \varepsilon$
 
+### Practice
+The following are some practice problems related to regular expressions.
+
+#### Design a regular expression for the following [[language]]: $\{w has no substring $10\}$
+- $0^*1^*$
+
+#### Design a regular expression for the following language: $\{w$ has an even number of 1's$\}$
+- $(0^*10^*10^*)^* \cup 0^*$
+
+#### Design a regular expression for the following language: $\{w$ has odd length$\}$
+- $((0 \cup 1)(0 \cup 1))^*(0 \cup 1)$
+
+#### Design a regular expression for the following language: $\{w$ has a 1 in the 3rd or 2nd position from the right end$\}$
+	- $(0 \cup 1)^*1(0 \cup 1)(0 \cup 1)\cup(0 \cup 1)^* 1(0 \cup 1) \rightarrow$
+	- $(0∪1)^*1(0∪1)((0∪1)∪ε) ⇒$
+	- $(0∪1)^*1(0∪1)(0∪1∪ε)$
+
+#### Design a regular expression for a language of strings that consist of alternating 0s and 1s:
+- $(01)^* \cup (10)^* \cup 0(10)^* \cup 1(01) ^*$.
+
+#### Design a regular expression for the following language: $D = \{ w$ has an odd number of alternating blocks of 0's and 1's$\}$.
+- What are some example strings that exist and don't exist in $D$? 
+	- $0|1|0 \in D, 0|1|0|1 \in D, 11|00|111 \in D, 0|11|000|11|0|1 \notin D$
+- An odd number of blocks implies that [[word|strings]] in $D$ must start and end with the same symbol. 
+	- From this, we can write the following regular expression: $0( \cup 1) ^{*} \cup 1 ( 0 \cup 1) ^{*}1 \cup 0 \cup 1$.
+- If we draw boundaries between blocks, there is a substring $01$ or $10$ at each boundary. A string in $D$ must have the same number of $01$ and $10$. 
+	- From this, we can write the following regular expression: $0^+ (1^+0^+)^* \cup 1^+(0^+1^+)^*$
+
+#### Design a regular expression for the following language: $E=\{w|$ In $ w,$ each 1 is immediately preceeded by a 0 and followed by a 0\}$
+- What are some example strings that exist in $E$? 
+	- We want a substring $010$. $0010001000010010∈E$. We can rewrite this as $(001)(0001)(00001)(001)(0) ⇒ (0^+1)(0^+1)(0^+1)(0^+1)(0^+)$
+- Thus, two possible regular expressions for this language could be $(0+1)^*0^+∪ε$ and $0^+(10^+)^*∪ε$.
+	

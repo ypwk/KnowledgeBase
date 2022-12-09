@@ -10,5 +10,7 @@ P is the class of problems that are solvable in polynomial time by [[Determinist
 
 If a problem is not in P, it often requires unreasonably long time to solve for large-size inputs. P is independent of all models of computation, except the [[Nondeterministic Turing Machine]].
 
+To prove that a problem $\Pi \in P$, design a polynomial-time algorithm. 
+
 ### Examples
 Some problems in P include Sorting, Searching, Selecting, Minimum Spanning Tree, Shortest Path, Matrix Multiplication, etc.
