@@ -40,7 +40,7 @@ Baeldung P, NP diagram :) with the increasing difficulty
 	- True — trivial, from the language and complement relationship. 
 3. If $A$ is non-TD and $A \leq C$ and $D \leq C$, then $D$ is non-TR.
 	- False — C is more difficult than A, 
-4. A problem that can be solved by a [[Deterministic Turing Machine]] in $2^n$ steps must be intractable (exponential time) 
+4. A problem that can be solved by a [[Deterministic Turing Machine]] in $2^n$ steps must be intractable (run in exponential time) 
 	- False? She said it was unclear?? This is so vague and shitty. Depends on the size of $n$ —  at small $n$, it isn't that bad
 		- We could write a shitty DTM that solves an easy problem in $2^n$ steps. 
 1. If $\Pi_1 \notin NP$, then $\Pi_1$ may still be in $P$. 

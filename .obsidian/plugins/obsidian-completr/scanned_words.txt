@@ -46,6 +46,9 @@ ask
 assignment
 assignments
 alternating
+add
+arc
+aw
 Topics
 Therefore
 Thus
@@ -68,6 +71,8 @@ True
 TDL
 Templates
 Tree
+Take
+These
 computerscience
 complexitytheory
 coloring
@@ -135,6 +140,10 @@ concerning
 consist
 correct
 cup
+combined
+complex
+changed
+cursor
 finiteautomata
 following
 function
@@ -157,6 +166,7 @@ free
 false
 formula
 forms
+format
 Graph
 Given
 Guess
@@ -193,6 +203,8 @@ Clauses
 Context
 Chomsky
 CFL
+Current
+Content
 Problem
 Power
 Properties
@@ -212,6 +224,7 @@ Problems
 Polynomial
 Path
 Programming
+Pushdown
 Definition
 DFAs
 DFA
@@ -227,6 +240,9 @@ Depends
 DTM
 Design
 Descent
+Delta
+Diagram
+Description
 graph
 given
 guesses
@@ -242,6 +258,10 @@ grammar
 guess
 goal
 generated
+gamma
+grammars
+gammar
+gammars
 bound
 by
 be
@@ -267,6 +287,9 @@ boundaries
 between
 boundary
 body
+blank
+beginning
+beta
 is
 in
 input
@@ -297,6 +320,10 @@ isn
 instances
 implies
 inputs
+includes
+infinite
+instantaneous
+initially
 there
 the
 that
@@ -346,6 +373,7 @@ truth
 terminals
 terminal
 turn
+thing
 scheme
 such
 same
@@ -416,6 +444,8 @@ sets
 satisfiable
 step
 started
+see
+stack
 of
 or
 on
@@ -434,6 +464,8 @@ obtain
 over
 only
 often
+onto
+overset
 nodes
 no
 nondeterministic
@@ -457,6 +489,7 @@ nonempty
 nonterminals
 nonterminal
 noise
+next
 uses
 used
 unrealistic
@@ -505,6 +538,8 @@ meaning
 machines
 mean
 make
+much
+move
 edge
 else
 enter
@@ -574,6 +609,8 @@ Shortest
 Satisfiability
 SAT
 Supervised
+Stack
+State
 We
 When
 Why
@@ -619,6 +656,10 @@ derives
 derivations
 describing
 dataset
+description
+datastructures
+descriptions
+dots
 problem
 polynomial
 paths
@@ -656,6 +697,10 @@ patterns
 palindromes
 parse
 productions
+pushed
+popped
+push
+plus
 NTM
 No
 Nondeterministic
@@ -670,6 +715,7 @@ Number
 NPC
 Need
 Normal
+Nothing
 On
 Operation
 Operators
@@ -709,6 +755,7 @@ halts
 how
 hard
 hardest
+happens
 verifies
 via
 viewed
@@ -720,6 +767,7 @@ verify
 vague
 variables
 variable
+vdash
 Finite
 For
 Form
@@ -743,6 +791,8 @@ Analysis
 Algorithm
 Any
 Activation
+Automata
+At
 where
 without
 worst
@@ -767,6 +817,7 @@ while
 was
 write
 writing
+way
 If
 In
 It
@@ -778,6 +829,9 @@ Iu
 IK
 Is
 Indexed
+ID
+Instantaneous
+Input
 reading
 reachable
 recognized
@@ -821,6 +875,7 @@ rules
 rule
 rightmost
 rightarrow
+relation
 language
 loss
 least
@@ -842,6 +897,9 @@ let
 leftmost
 learning
 learn
+list
+labeled
+longrightarrow
 Regular
 Reverse
 Reducibility
@@ -854,6 +912,8 @@ Relative
 Radius
 Reduction
 Razor
+README
+Relation
 Language
 Let
 Laws
@@ -929,6 +989,7 @@ But
 Basically
 Baeldung
 Batch
+Binary
 JFIF
 JPEG
 JFI

@@ -4,103 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bd034988de1be021",
+        "id": "4dfd812d591beba5",
         "type": "tabs",
         "children": [
           {
-            "id": "5d264d9c675cae9a",
+            "id": "ad7513dded368cb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Theory of Computation/reducibility.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca4cd82ad16b8403",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Theory of Computation/NP-hard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccee3850c10f3a8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Theory of Computation/regular expression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47699f3dd2408e67",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "f6be991e026e357c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Final Exam Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23834accbac833e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Final Exam Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3546e3a9197e770f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Theory of Computation/Chomsky Normal Form.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c66bbdca0dcc686",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Theory of Computation/context-free language.md",
+                "file": "Computer Science/Theory of Computation/Turing Machine.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final Exam Review.md",
+                "file": "Computer Science/Theory of Computation/Turing Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final Exam Review.md",
+                "file": "Computer Science/Theory of Computation/Turing Machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final Exam Review.md"
+                "file": "Computer Science/Theory of Computation/Turing Machine.md"
               }
             }
           }
@@ -217,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "23834accbac833e5",
+  "active": "ad7513dded368cb0",
   "lastOpenFiles": [
-    "Computer Science/Theory of Computation/complexity theory.md",
-    "Computer Science/Machine Learning/supervised learning.md",
-    "Computer Science/Theory of Computation/Cook's Theorem.md",
-    "Computer Science/Theory of Computation/complexity class.md",
-    "Computer Science/Theory of Computation/class of NPC.md",
-    "Computer Science/Machine Learning/overfit.md",
-    "Computer Science/Machine Learning/Occam's razor.md",
-    "Computer Science/Machine Learning/entropy.md",
-    "Computer Science/Machine Learning/batch gradient descent.md",
-    "Computer Science/Machine Learning/activation function.md"
+    "Computer Science/Theory of Computation/Deterministic Turing Machine.md",
+    "Computer Science/Theory of Computation/Turing Machine.md",
+    "Final Exam Review.md",
+    "Template Index.md",
+    "Computer Science/Theory of Computation/pumping lemma.md",
+    "Computer Science/Theory of Computation/regular language.md",
+    "Computer Science/Theory of Computation/context-free language.md",
+    "Computer Science/Theory of Computation/context-free grammar.md",
+    "Computer Science/Theory of Computation/reducibility.md",
+    "Computer Science/Theory of Computation/NP-hard.md"
   ]
 }

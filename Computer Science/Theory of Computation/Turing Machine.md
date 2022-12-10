@@ -5,8 +5,27 @@ Topics: #computerscience #automatatheory #finiteautomata
 
 ## Turing Machine (TM)
 
+### Definition
+A Turing machine includes a control unit, a read-write head, and a one-way infinite tape. The read-write head can move in either direction on the tape and make changes to the tape.  
 
+TM $M=(Q, \Sigma, \Gamma, \delta, q_0. q_{\text{accept}}, q_{\text{reject}})$.
+- $Q$: The finite set of states for the control unit.
+- $\Sigma$: An [[alphabet]] of input symbols, not containing the "blank symbol" $B$. 
+- $\Gamma$: The complete set of tape symbols. $\Sigma \cup \{B\} \subset \Gamma$.
+- $\delta$: The transition function from $Q \times \Gamma$ to $Q \times \Gamma \times D$, where $D=\{L,R\}$.
+- $q_0$: The start state.
+- $q_{\text{accept}}$: The accept state.
+- $q_{\text{reject}}$: The reject state. 
 
+### Configuration
+We could use a string to describe the state of a Turing machine at a certain time, instead of drawing a picture of the machine. 
+
+For example, the string $X_1 \dots X_{i-1}qX_i \dots X_n$ gives a snapshot of the Turing machine at some given time, when the current state is $q$, the tape content is $X_1 \dots X_n$, and the head is pointing to $X_i$. 
+
+We call this string a **configuration** of the Turing machine. This is similar to how [[pushdown automata]] track their state. 
+
+If we have a transition $\delta(q, X_i) = (p, Y, L)$, then 
+- $X_1 \dots X_{i-1} q X_i \dots X_n \vdash X_1 \dots X_{i-2} p X_{i-1} Y X_{i+1} \dots X_n$. 
 
 ### Practice
 1. Prove that for any Turing machine $M$ whether the language of $M$, $L(M)$, is finite.
