@@ -26,7 +26,11 @@ DFA, NFA, and regular languages have the same computational power.
 - Reverse
 	- If $A$ is regular, so is $A^{R}$.
 - Homomorphism
-	- If $A$ is regular, so is $h(A)=\{h(w)|w \in A\}$ for a homomorphism $h : \Sigma \rightarrow (\Sigma^{'})^{*}$.
+	- If $A$ is regular, so is $h(A)=\{h(w)|w \in A\}$ for a homomorphism $h : \Sigma \rightarrow (\Sigma^{'})^{*}$. $h$ is defined as follows:
+		- $h(\varepsilon)=\varepsilon$ and for $a \in \Sigma$, $h(a)$ is any string in $\Delta^{*}$.
+		- For $a=a_1a_2 \dots a_n \in \Sigma^{*} (n \geq 2), h(a) = h(a_1)h(a_2)\dots h(a_n)$. 
+		- A homomorphism $h$ maps a strng $a \in \Sigma^{*}$ to a string in $\Delta^{*}$ by mapping each character of $a$ to a string $h(a) \in \Delta^{*}$. 
+		- A homomorphism is a function from strings to strings that “respects” concatenation: for any $x,y ∈ Σ^{*}, h(xy) = h(x)h(y)$.
 - Inverse Homormorphism
 	- If $A$ is regular, so is $h^{-1}(A)=\{w|h(w) \in A\}$ for a homomorphism $h : \Sigma \rightarrow (\Sigma^{'})^{*}$.
 

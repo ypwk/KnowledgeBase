@@ -1,10 +1,10 @@
 ---
-aliases: ["REDUCIBILITY","reducibility","Reducibility","reduction"] 
+aliases: ["REDUCIBILITY","reducibility","Reducibility","reduction","reducible"] 
 ---
 Topics: #computerscience #automatatheory #finiteautomata
 
 ## Reducibility
-We say that problem $A$ reduces (or is reducible) to problem $B$, written as $A \leq B$, if we can use a solution ([[Turing Machine|TM]]) to B to solve $A$ (i.e., if $B$ is decidable/solvable, so is $A$.). 
+We say that problem $A$ reduces (or is reducible) to problem $B$, written as $A \leq B$, if we can use a solution ([[Turing Machine|TM]]) to B to solve $A$, and the conversion is done in polynomial time (i.e., if $B$ is decidable/solvable, so is $A$.). 
 
 We may use reducibility to prove undecidability as follows: 
 1. Let $A$ be [[Turing Decidable Language|non-TD]], such as $A_D$ or $A_{TM}$ . We want to prove that $B$ is non-TD. 

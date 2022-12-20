@@ -4,7 +4,7 @@ aliases: ["EIGENVALUE","eigenvalue","Eigenvalue","Eigenvalues","eigenvalues"]
 Topics: #mathematics #linearalgebra
 
 ## Eigenvalue
-Given a square matrix $A \in M_n$, an eigenvalue of $A$, $\lambda \in \mathbb{R}$, satisfies the eigenvalue-eigenvector equation: $Ax = \lambda x$, where $\lambda$ is the eigenvalue and $x \neq 0$ is the [[eigenvector]]. 
+Given a square matrix $A \in M_n$, an eigenvalue of $A$, $\lambda \in \mathbb{R}$, satisfies the [[eigenvalue-eigenvector equation]]: $Ax = \lambda x$, where $\lambda$ is the eigenvalue and $x \neq 0$ is the [[eigenvector]]. 
 
 ### Calculating Eigenvalues 
 Let  $A = \begin{bmatrix} 5 & -1 \\ 2 & 2 \end{bmatrix}$. Note that the row sums of $A$ are all 4. We can infer the following: $$

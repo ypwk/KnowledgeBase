@@ -1,5 +1,5 @@
 ---
-aliases: ["TURING MACHINE","turing machine","Turing Machine","Turing Machines","turing machines", "TM", "tm", "TMs", 'tms'] 
+aliases: ["TURING MACHINE","turing machine","Turing Machine","Turing Machines","Turing machines", "TM", "tm", "TMs", 'tms'] 
 ---
 Topics: #computerscience #automatatheory #finiteautomata
 
@@ -17,15 +17,16 @@ TM $M=(Q, \Sigma, \Gamma, \delta, q_0. q_{\text{accept}}, q_{\text{reject}})$.
 - $q_{\text{accept}}$: The accept state.
 - $q_{\text{reject}}$: The reject state. 
 
+The language of a Turing machine $M$, or a language recognized or accepted by $M$, is $L(M) = \{\}
+
 ### Configuration
 We could use a string to describe the state of a Turing machine at a certain time, instead of drawing a picture of the machine. 
 
 For example, the string $X_1 \dots X_{i-1}qX_i \dots X_n$ gives a snapshot of the Turing machine at some given time, when the current state is $q$, the tape content is $X_1 \dots X_n$, and the head is pointing to $X_i$. 
 
-We call this string a **configuration** of the Turing machine. This is similar to how [[pushdown automata]] track their state. 
+We call this string a **configuration** of the Turing machine. This is similar to how [[pushdown automata]] track their state. Given transition $\delta(q, X_i) = (p, Y, L)$, then $X_1 \dots X_{i-1} q X_i \dots X_n \vdash X_1 \dots X_{i-2} p X_{i-1} Y X_{i+1} \dots X_n$. Similarly, given transition $\delta(q, X_i)=(p,Y,R)$, then $X_1 \dots X_{i-1}qX_i \dots X_n \vdash X_1 \dots X_{i-1}YpX_{i+1} \dots X_n$. 
 
-If we have a transition $\delta(q, X_i) = (p, Y, L)$, then 
-- $X_1 \dots X_{i-1} q X_i \dots X_n \vdash X_1 \dots X_{i-2} p X_{i-1} Y X_{i+1} \dots X_n$. 
+There are three important configurations: the starting configuration $q_0 w$, the accepting configuration $uq_{\text{accept}}v$, and the rejecting configuration $uq_{\text{reject}}v$, where the accepting and rejecting configurations are called **halting configurations**. 
 
 ### Practice
 1. Prove that for any Turing machine $M$ whether the language of $M$, $L(M)$, is finite.

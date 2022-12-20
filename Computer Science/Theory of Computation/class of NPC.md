@@ -1,5 +1,5 @@
 ---
-aliases: ["CLASS OF NPC","class of npc","Class of NPC", "NPC"] 
+aliases: ["CLASS OF NPC","class of npc","Class of NPC", "NPC", "NP-complete"] 
 ---
 Topics: #computerscience #finiteautomata #computabilitytheory 
 

@@ -1,3 +1,4 @@
+### Automata Theory
 design a simple dfa to accept a simple language (p 27 class notes, p31, ex 5)
 closure properties for regular languages
 review regular expressions and understand their meaning
@@ -8,10 +9,12 @@ closure properties for context free languages (p 96 - 98)
 prove language non context free (p99, 100)
 
 no pumping lemma proofs, for both regular languages and context free languages
+no subset construction
 
+### Computability Theory
 problems, languages, solvable (TD) vs unsolvable (non-TD)
 Turing machines, how it works, its language, its encoding, Church-Turing thesis
-Turing Recognizable (input given is in languages, just need a Turing Machine to verify)
+Turing Recognizable (input given is in languages, just need a Turing Machine to verify) Output of $M$ is always "accept"
 Turing Decidable (input given can be any string. Need a stronger Turing Machine to check if it is in the language (accept) or not in the language (reject))
 The meaning of reduction A <=p B means that A is no harder than B or B is at least as hard as A
 - comparing degree of difficulty in the two problems
@@ -19,9 +22,9 @@ Proofs: a language is TR, TD, or non-TD
 A language and its complement (p 122) (True or false, what class is the language in?) 
 - If a language is TDL, then its complement must become TDL. 
 
-(never ask to design a Turing Machine from delta function)
+No Turing machine design from $\delta$ or using high-level implementation.
 
-
+### Point Allocation
 100 points, 6 bonus points
 - Short questions about automata theory (25 points)
 - T or F (Turing machines, turing recognizability, turing decidability, special languages ($A_{TM}$, $HALT_{TM}$)) (24 points)

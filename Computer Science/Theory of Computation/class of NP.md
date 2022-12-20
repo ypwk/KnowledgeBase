@@ -10,5 +10,7 @@ NP is the class of problems solvable in polynomial time by [[Nondeterministic Tu
 
 To prove that a problem $\Pi \in NP$, design a polynomial-time nondeterministic algorithm with two steps, **guess** and **verify**. 
 
+We know that the [[class of P]] is in NP, but whether it equals NP remains to be seen. 
+
 ### Theorems
 Any problem $\Pi \in NP$ can be solved using a [[Deterministic Turing Machine]] in time $O(c^{p(n)})$ for some $c > 0$ and polynomial $p(n)$.

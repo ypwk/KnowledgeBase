@@ -4,4 +4,5 @@ aliases: ["ACTIVATION FUNCTION","activation function","Activation function","Act
 Topics: #computerscience #machinelearning 
 
 ## Activation Function
-The function evaluated at each node in a [[neural network]]. 
+The function evaluated at each node in a [[neural network]].
+

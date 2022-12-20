@@ -8,17 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "tag:#unfinished",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
       "query": "tag:#computerscience",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 5860518
       }
     },
     {
       "query": "tag:#mathematics",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 13609827
       }
     }
   ],
@@ -32,6 +39,6 @@
   "repelStrength": 12.6041666666667,
   "linkStrength": 0.942708333333333,
   "linkDistance": 150,
-  "scale": 0.4435803906581253,
-  "close": true
+  "scale": 0.39410540265852184,
+  "close": false
 }

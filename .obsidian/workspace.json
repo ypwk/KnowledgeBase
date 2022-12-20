@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "4dfd812d591beba5",
+        "id": "4376d775e6ed6a01",
         "type": "tabs",
         "children": [
           {
-            "id": "ad7513dded368cb0",
+            "id": "8a251d1d59a3ac71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Theory of Computation/Turing Machine.md",
+                "file": "Mathematics/Linear Algebra/characteristic polynomial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0398e79e0e30f4e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Linear Algebra/determinant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7981a83318c83eb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Linear Algebra/elementary symmetric function.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "machine learning",
+                "query": "tag:#unfinished",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Theory of Computation/Turing Machine.md",
+                "file": "Mathematics/Linear Algebra/elementary symmetric function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Theory of Computation/Turing Machine.md",
+                "file": "Mathematics/Linear Algebra/elementary symmetric function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,28 +150,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Theory of Computation/Turing Machine.md"
+                "file": "Mathematics/Linear Algebra/elementary symmetric function.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "ad7513dded368cb0",
+  "active": "7981a83318c83eb5",
   "lastOpenFiles": [
-    "Computer Science/Theory of Computation/Deterministic Turing Machine.md",
-    "Computer Science/Theory of Computation/Turing Machine.md",
-    "Final Exam Review.md",
-    "Template Index.md",
-    "Computer Science/Theory of Computation/pumping lemma.md",
-    "Computer Science/Theory of Computation/regular language.md",
-    "Computer Science/Theory of Computation/context-free language.md",
-    "Computer Science/Theory of Computation/context-free grammar.md",
-    "Computer Science/Theory of Computation/reducibility.md",
-    "Computer Science/Theory of Computation/NP-hard.md"
+    "Mathematics/Linear Algebra/determinant.md",
+    "Mathematics/Linear Algebra/triangular matrix.md",
+    "Mathematics/Linear Algebra/Laplace Expansion.md",
+    "Mathematics/Linear Algebra/minor.md",
+    "Mathematics/Linear Algebra/characteristic polynomial.md",
+    "Mathematics/Linear Algebra/singularity.md",
+    "Mathematics/Linear Algebra/invertibility.md",
+    "Mathematics/Linear Algebra/matrix.md",
+    "Mathematics/Linear Algebra/matrix polynomial.md",
+    "Mathematics/Linear Algebra/spectrum.md"
   ]
 }
